@@ -4,5 +4,5 @@ plugins/AvP/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/AvP/mai
 plugins/AvP/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/wishmstr/AvP/main/sets/setimages/general/cardback.jpg	-28923
 plugins/AvP/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/wishmstr/AvP/main/sets/setimages/general/spawned.jpg	656144
 plugins/AvP/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/AvP/main/CardImageURLs1.txt	12116804
-CardImageURLs:
+CardURLFiles:
 CardImageURLs1.txt
