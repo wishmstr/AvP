@@ -1,8 +1,8 @@
-AvP	02-22-24
-plugins/AvP/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/AvP/main/plugininfo.txt	-1
-plugins/AvP/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/AvP/main/sets/carddata.txt	-1
-plugins/AvP/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/wishmstr/AvP/main/sets/setimages/general/cardback.jpg	-1
-plugins/AvP/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/wishmstr/AvP/main/sets/setimages/general/spawned.jpg	-1
-plugins/AvP/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/AvP/main/CardImageURLs1.txt	-1
-CardURLFiles:
+AvP	02-24-24
+plugins/AvP/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/AvP/main/plugininfo.txt	284113
+plugins/AvP/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/AvP/main/sets/carddata.txt	5082988
+plugins/AvP/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/wishmstr/AvP/main/sets/setimages/general/cardback.jpg	-28923
+plugins/AvP/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/wishmstr/AvP/main/sets/setimages/general/spawned.jpg	656144
+plugins/AvP/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/AvP/main/CardImageURLs1.txt	12116612
+CardImageURLs:
 CardImageURLs1.txt
