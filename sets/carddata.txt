@@ -36,7 +36,7 @@ Genetic Experiment: Natural Camouflage	Resurrection	avp.image.rez.event.genetic.
 Hit Below The Belt	Resurrection	avp.image.rez.event.hit.below.the.belt		Event								
 Human Cargo	Resurrection	avp.image.rez.event.human.cargo		Event								
 I Thought You Were Dead	Resurrection	avp.image.rez.event.i.thought.you.were.dead		Event								
-"If He Dies, You Die"	Resurrection	"avp.image.rez.event.if.he.dies,.you.die"		Event								
+If He Dies, You Die	Resurrection	avp.image.rez.event.if.he.dies.you.die		Event								
 I'm Okay	Resurrection	avp.image.rez.event.i'm.okay		Event								
 Into The Tunnels	Resurrection	avp.image.rez.event.into.the.tunnels		Event								
 Invasive Surgery	Resurrection	avp.image.rez.event.invasive.surgery		Event								
@@ -239,7 +239,7 @@ Lucky Break	Premiere	avp.image.premiere.event.lucky.break		Event
 Malfunction	Premiere	avp.image.premiere.event.malfunction		Event								
 March Of Time	Premiere	avp.image.premiere.event.march.of.time		Event								
 Marine Short Course	Premiere	avp.image.premiere.event.marine.short.course		Event								
-"Marines, We Are Leaving"	Premiere	"avp.image.premiere.event.marines,.we.are.leaving"		Event								
+Marines, We Are Leaving	Premiere	avp.image.premiere.event.marines.we.are.leaving		Event								
 Masterful Shot	Premiere	avp.image.premiere.event.masterful.shot		Event								
 Medical Assistance	Premiere	avp.image.premiere.event.medical.assistance		Event								
 Meditation	Premiere	avp.image.premiere.event.meditation		Event								
@@ -289,7 +289,7 @@ Security Doors	Premiere	avp.image.premiere.event.security.doors		Event
 Self Destruct Sequence	Premiere	avp.image.premiere.event.self.destruct.sequence		Event								
 Sensing Weakness	Premiere	avp.image.premiere.event.sensing.weakness		Event								
 Settle the Score	Premiere	avp.image.premiere.event.settle.the.score		Event								
-"Short, Controlled Bursts"	Premiere	"avp.image.premiere.event.short,.controlled.bursts"		Event								
+Short, Controlled Bursts	Premiere	avp.image.premiere.event.short,.controlled.bursts		Event								
 Situational Awareness	Premiere	avp.image.premiere.event.situational.awareness		Event								
 Slow Motion	Premiere	avp.image.premiere.event.slow.motion		Event								
 Snapshot	Premiere	avp.image.premiere.event.snapshot		Event								
@@ -718,7 +718,7 @@ M27 Uzi	Atmosphere	ATM_M27_UZI	Human	Item
 M77 Minigun	Atmosphere	ATM_M77_MINIGUN	Human	Item								
 M577 Armored Personnel Carrier	Atmosphere	ATM_M577_APC	Human	Vehicle								
 M932 Turret Mounted Assault Cannon	Atmosphere	ATM_M932_TURRET_MOUNTED_ASSAULT_CANNON	Human	Vehicle Item								
-Maintenance Shafts	Atmosphere	ATM_MAINTENANCE SHAFTS	Indoor	Location: Cross								
+Maintenance Shafts	Atmosphere	ATM_MAINTENANCE_SHAFTS	Indoor	Location: Cross								
 Maintenance Bay	Atmosphere	ATM_MAINTENANCE_BAY	Entry	Location								
 Major Dutch	Atmosphere	ATM_MAJOR_DUTCH	Marine	Main Character								
 Makeshift Longbow	Atmosphere	ATM_MAKESHIFT_LONGBOW	Human	Item								
