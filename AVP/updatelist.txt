@@ -1,9 +1,0 @@
-**********	MM-DD-YY
-plugins/**********/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/**********/main/plugininfo.txt	-1
-plugins/**********/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/**********/main/pluginpreferences.txt	-1
-plugins/**********/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/**********/main/sets/carddata.txt	-1
-plugins/**********/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/wishmstr/**********/main/sets/setimages/general/cardback.jpg	-1
-plugins/**********/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/wishmstr/**********/main/sets/setimages/general/spawned.jpg	-1
-plugins/**********/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/**********/main/CardImageURLs1.txt	-1
-CardURLFiles:
-CardImageURLs1.txt
